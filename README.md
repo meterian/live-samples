@@ -1,5 +1,5 @@
 # live-samples
-A list of live samples report of open source projects
+A list of live samples report of open source projects. Click on one of the badges to access the report!
 
 | Project          | Security      | Stability  |
 |:---------------- | ------------- | ---------- |
